@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "Phoenix Coffee Company",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Cleveland",
+    "description": "Artisan brews & snacks in cool locale",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Rising Star Coffee Roasters",
+    "reviewScore": "4.7",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Cleveland",
+    "description": "Cool spot for artisan java & snacks",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Passport Cafe",
+    "reviewScore": "4.8",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Cleveland",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "NEW Center Coffee Shop",
+    "reviewScore": "5.0",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Rootstown",
+    "description": "",
+    "hours": "Opens at 7:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Silver Bridge Coffee",
+    "reviewScore": "3.7",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Bidwell",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "rōst coffee",
+    "reviewScore": "4.9",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "Chillicothe",
+    "description": "",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Koffie Café",
+    "reviewScore": "4.3",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Cleveland",
+    "description": "",
+    "hours": "Opens at 8:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Crimson Cup Coffee Shop - Clintonville",
+    "reviewScore": "4.5",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Columbus",
+    "description": "Cozy cafe serving small-batch brews",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Coffee Connections of Plain City",
+    "reviewScore": "4.0",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Not Given",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Silver Bridge Coffee Company",
+    "reviewScore": "5.0",
+    "priciness": "Unknown",
+    "establishmentType": "Wholesaler",
+    "location": "Not Given",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Mission Coffee Co. LLC",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Columbus",
+    "description": "Hip choice for micro-roasted coffee",
+    "hours": "Opens at 9:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Donkey Coffee",
+    "reviewScore": "4.8",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "Athens",
+    "description": "Eco-friendly neighborhood coffeehouse",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Berry Café",
+    "reviewScore": "3.9",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Columbus",
+    "description": "",
+    "hours": "Opens at 7:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Akron Coffee Roasters",
+    "reviewScore": "4.8",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Akron",
+    "description": "",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Stauf's Coffee Roasters",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Columbus",
+    "description": "Casual cafe for coffee & tea",
+    "hours": "Opens at 6:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "5 Bean Coffee",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Reynoldsburg",
+    "description": "",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Brioso Coffee",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Columbus",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Warehouse 4 Coffee",
+    "reviewScore": "4.7",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "Vandalia",
+    "description": "",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Loop-Tremont",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Not Given",
+    "description": "Arty cafe with an upstairs record store",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "One Line Coffee-Short North",
+    "reviewScore": "4.6",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "Columbus",
+    "description": "Coffee bar & roaster with workshops",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Phoenix Coffee Company",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Cleveland",
+    "description": "Artisan brews & snacks in cool locale",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Rising Star Coffee Roasters",
+    "reviewScore": "4.7",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Cleveland",
+    "description": "Cool spot for artisan java & snacks",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Passport Cafe",
+    "reviewScore": "4.8",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Cleveland",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "NEW Center Coffee Shop",
+    "reviewScore": "5.0",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Rootstown",
+    "description": "",
+    "hours": "Opens at 7:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Silver Bridge Coffee",
+    "reviewScore": "3.7",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Bidwell",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "rōst coffee",
+    "reviewScore": "4.9",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "Chillicothe",
+    "description": "",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Koffie Café",
+    "reviewScore": "4.3",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Cleveland",
+    "description": "",
+    "hours": "Opens at 8:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Crimson Cup Coffee Shop - Clintonville",
+    "reviewScore": "4.5",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "4541 N High St",
+    "description": "Cozy cafe serving small-batch brews",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Coffee Connections of Plain City",
+    "reviewScore": "4.0",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Not Given",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Silver Bridge Coffee Company",
+    "reviewScore": "5.0",
+    "priciness": "Unknown",
+    "establishmentType": "Wholesaler",
+    "location": "Not Given",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Mission Coffee Co. LLC",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "1051 N 4th St",
+    "description": "Hip choice for micro-roasted coffee",
+    "hours": "Opens at 9:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Donkey Coffee",
+    "reviewScore": "4.8",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "17 W Washington St",
+    "description": "Eco-friendly neighborhood coffeehouse",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Berry Café",
+    "reviewScore": "3.9",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "1858 Neil Ave",
+    "description": "",
+    "hours": "Opens at 7:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Akron Coffee Roasters",
+    "reviewScore": "4.8",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "30 N High St",
+    "description": "",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Stauf's Coffee Roasters",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "1277 Grandview Ave",
+    "description": "Casual cafe for coffee & tea",
+    "hours": "Opens at 6:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "5 Bean Coffee",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "2087 Baltimore-Reynoldsburg Rd A",
+    "description": "",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Brioso Coffee",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "53 N High St",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Warehouse 4 Coffee",
+    "reviewScore": "4.7",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "335 S Dixie Dr",
+    "description": "",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Loop-Tremont",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Not Given",
+    "description": "Arty cafe with an upstairs record store",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "One Line Coffee-Short North",
+    "reviewScore": "4.6",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "745 N High St",
+    "description": "Coffee bar & roaster with workshops",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Phoenix Coffee Company",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "3000 Bridge Ave",
+    "description": "Artisan brews & snacks in cool locale",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Rising Star Coffee Roasters",
+    "reviewScore": "4.7",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "1455 W 29th St",
+    "description": "Cool spot for artisan java & snacks",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Passport Cafe",
+    "reviewScore": "4.8",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "2090 W 25th St",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "NEW Center Coffee Shop",
+    "reviewScore": "5.0",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "4211 OH-44",
+    "description": "",
+    "hours": "Opens at 7:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Silver Bridge Coffee",
+    "reviewScore": "3.7",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "3152 OH-850",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "rōst coffee",
+    "reviewScore": "4.9",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "107 E 2nd St",
+    "description": "",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Koffie Café",
+    "reviewScore": "4.3",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "2517 Market Ave",
+    "description": "",
+    "hours": "Opens at 8:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Crimson Cup Coffee Shop - Clintonville",
+    "reviewScore": "4.5",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "4541 N High St",
+    "description": "Cozy cafe serving small-batch brews",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Coffee Connections of Plain City",
+    "reviewScore": "4.0",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Not Given",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Silver Bridge Coffee Company",
+    "reviewScore": "5.0",
+    "priciness": "Unknown",
+    "establishmentType": "Wholesaler",
+    "location": "Not Given",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Mission Coffee Co. LLC",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "1051 N 4th St",
+    "description": "Hip choice for micro-roasted coffee",
+    "hours": "Opens at 9:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Donkey Coffee",
+    "reviewScore": "4.8",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "17 W Washington St",
+    "description": "Eco-friendly neighborhood coffeehouse",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Berry Café",
+    "reviewScore": "3.9",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "1858 Neil Ave",
+    "description": "",
+    "hours": "Opens at 7:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Akron Coffee Roasters",
+    "reviewScore": "4.8",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "30 N High St",
+    "description": "",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Stauf's Coffee Roasters",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "1277 Grandview Ave",
+    "description": "Casual cafe for coffee & tea",
+    "hours": "Opens at 6:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "5 Bean Coffee",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "2087 Baltimore-Reynoldsburg Rd A",
+    "description": "",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Brioso Coffee",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "53 N High St",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Warehouse 4 Coffee",
+    "reviewScore": "4.7",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "335 S Dixie Dr",
+    "description": "",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Loop-Tremont",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Not Given",
+    "description": "Arty cafe with an upstairs record store",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "One Line Coffee-Short North",
+    "reviewScore": "4.6",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "745 N High St",
+    "description": "Coffee bar & roaster with workshops",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Phoenix Coffee Company",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "3000 Bridge Ave",
+    "description": "Artisan brews & snacks in cool locale",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Rising Star Coffee Roasters",
+    "reviewScore": "4.7",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "1455 W 29th St",
+    "description": "Cool spot for artisan java & snacks",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Passport Cafe",
+    "reviewScore": "4.8",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "2090 W 25th St",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "NEW Center Coffee Shop",
+    "reviewScore": "5.0",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "4211 OH-44",
+    "description": "",
+    "hours": "Opens at 7:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Silver Bridge Coffee",
+    "reviewScore": "3.7",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "3152 OH-850",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "rōst coffee",
+    "reviewScore": "4.9",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "107 E 2nd St",
+    "description": "",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Koffie Café",
+    "reviewScore": "4.3",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "2517 Market Ave",
+    "description": "",
+    "hours": "Opens at 8:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Crimson Cup Coffee Shop - Clintonville",
+    "reviewScore": "4.5",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "4541 N High St",
+    "description": "Cozy cafe serving small-batch brews",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Coffee Connections of Plain City",
+    "reviewScore": "4.0",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Not Given",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Silver Bridge Coffee Company",
+    "reviewScore": "5.0",
+    "priciness": "Unknown",
+    "establishmentType": "Wholesaler",
+    "location": "Not Given",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Mission Coffee Co. LLC",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "1051 N 4th St",
+    "description": "Hip choice for micro-roasted coffee",
+    "hours": "Opens at 9:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Donkey Coffee",
+    "reviewScore": "4.8",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "17 W Washington St",
+    "description": "Eco-friendly neighborhood coffeehouse",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Berry Café",
+    "reviewScore": "3.9",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "1858 Neil Ave",
+    "description": "",
+    "hours": "Opens at 7:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Akron Coffee Roasters",
+    "reviewScore": "4.8",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "30 N High St",
+    "description": "",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Stauf's Coffee Roasters",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "1277 Grandview Ave",
+    "description": "Casual cafe for coffee & tea",
+    "hours": "Opens at 6:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "5 Bean Coffee",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "2087 Baltimore-Reynoldsburg Rd A",
+    "description": "",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Brioso Coffee",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "53 N High St",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Warehouse 4 Coffee",
+    "reviewScore": "4.7",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "335 S Dixie Dr",
+    "description": "",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Loop-Tremont",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Not Given",
+    "description": "Arty cafe with an upstairs record store",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "One Line Coffee-Short North",
+    "reviewScore": "4.6",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "745 N High St",
+    "description": "Coffee bar & roaster with workshops",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Phoenix Coffee Company",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "3000 Bridge Ave",
+    "description": "Artisan brews & snacks in cool locale",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Rising Star Coffee Roasters",
+    "reviewScore": "4.7",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "1455 W 29th St",
+    "description": "Cool spot for artisan java & snacks",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Passport Cafe",
+    "reviewScore": "4.8",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "2090 W 25th St",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "NEW Center Coffee Shop",
+    "reviewScore": "5.0",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "4211 OH-44",
+    "description": "",
+    "hours": "Opens at 7:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Silver Bridge Coffee",
+    "reviewScore": "3.7",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "3152 OH-850",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "rōst coffee",
+    "reviewScore": "4.9",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "107 E 2nd St",
+    "description": "",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Koffie Café",
+    "reviewScore": "4.3",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "2517 Market Ave",
+    "description": "",
+    "hours": "Opens at 8:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Crimson Cup Coffee Shop - Clintonville",
+    "reviewScore": "4.5",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "4541 N High St",
+    "description": "Cozy cafe serving small-batch brews",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Coffee Connections of Plain City",
+    "reviewScore": "4.0",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "Not Given",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Silver Bridge Coffee Company",
+    "reviewScore": "5.0",
+    "priciness": "Unknown",
+    "establishmentType": "Wholesaler",
+    "location": "Not Given",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Mission Coffee Co. LLC",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "1051 N 4th St",
+    "description": "Hip choice for micro-roasted coffee",
+    "hours": "Opens at 9:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Donkey Coffee",
+    "reviewScore": "4.8",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "17 W Washington St",
+    "description": "Eco-friendly neighborhood coffeehouse",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Berry Café",
+    "reviewScore": "3.9",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "1858 Neil Ave",
+    "description": "",
+    "hours": "Opens at 7:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Akron Coffee Roasters",
+    "reviewScore": "4.8",
+    "priciness": "Unknown",
+    "establishmentType": "Coffee shop",
+    "location": "30 N High St",
+    "description": "",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Stauf's Coffee Roasters",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "1277 Grandview Ave",
+    "description": "Casual cafe for coffee & tea",
+    "hours": "Opens at 6:30 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "5 Bean Coffee",
+    "reviewScore": "4.7",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "2087 Baltimore-Reynoldsburg Rd A",
+    "description": "",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Brioso Coffee",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "53 N High St",
+    "description": "",
+    "hours": "Unknown",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Warehouse 4 Coffee",
+    "reviewScore": "4.7",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "335 S Dixie Dr",
+    "description": "",
+    "hours": "Opens at 6:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "Loop-Tremont",
+    "reviewScore": "4.6",
+    "priciness": "Inexpensive",
+    "establishmentType": "Coffee shop",
+    "location": "Not Given",
+    "description": "Arty cafe with an upstairs record store",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  },
+  {
+    "name": "One Line Coffee-Short North",
+    "reviewScore": "4.6",
+    "priciness": "Moderate",
+    "establishmentType": "Coffee shop",
+    "location": "745 N High St",
+    "description": "Coffee bar & roaster with workshops",
+    "hours": "Opens at 7:00 AM",
+    "phone": "Unknown"
+  }
+]
