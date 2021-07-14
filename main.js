@@ -4,6 +4,7 @@ const db = require('quick.db')
 const restaurantData = require('./restaurant-data.json')
 const schoolData = require('./school-data.json')
 
+// Main routine for interfacing with database
 async function main() {
   // Add the school data synchronously to our json.sqlite file
   db.set('school-data', schoolData)
@@ -33,4 +34,5 @@ async function main() {
   console.log(firstFiveRestaurants)
 }
 
+// Runs the main routine
 main()
